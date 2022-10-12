@@ -8,13 +8,9 @@ import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import tests.BaseTest;
-
-import java.awt.*;
-import java.awt.event.KeyEvent;
 import java.io.File;
 import java.time.Duration;
 import java.util.Set;
-import java.util.concurrent.TimeUnit;
 
 @SuppressWarnings("Unused")
 public class EditorFactory extends BaseTest {
